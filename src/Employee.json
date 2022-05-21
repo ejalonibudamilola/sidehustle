@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Alex C",
+        "age": 2,
+        "city": "Houston",
+        "married": true
+    },
+    {
+        "name": "John G",
+        "age": 40,
+        "city": "Washington",
+        "married": false
+    },
+    {
+        "name": "Bala T",
+        "age": 22,
+        "city": "Banglore",
+        "married": true
+    }
+]
